@@ -1,0 +1,42 @@
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;}
+table {
+        border-collapse: collapse;
+        border-spacing: 0;
+}
+mark {
+	background-color: transparent;
+	color: inherit;
+}
+input, select, textarea {
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	-ms-appearance: none;
+	appearance: none;
+}
+input, textarea, select {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 19pt;
+    font-weight: 300;
+    line-height: 1.75em;
+    color: #925E78;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+    color: #CD8987;
+    line-height: 1.5em;
+}
+h2 {
+    font-size: 2em;
+    letter-spacing: -1px;
+}
+.container {
+    margin: 0 auto;
+    max-width: 100%;
+    width: 1400px;
+}
+input::-moz-focus-inner {
+	border: 0;
+	padding: 0;
+}
