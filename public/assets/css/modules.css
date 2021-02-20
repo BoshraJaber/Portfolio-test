@@ -136,7 +136,7 @@ article > .container, article:last-child {
     .image.avatar48 {
         width: 48px;
         height: 48px;
-        background: #f00;
+        background: #A4303F;
     }
 
         .image.avatar48 img {
@@ -291,7 +291,7 @@ table {
 }
 
     table tbody tr:nth-child(2n+2) {
-        background: #f4f4f4;
+        background: #A4303F;
     }
 
     table td {
@@ -302,7 +302,7 @@ table {
         text-align: left;
         padding: 0.5em 1em 0.5em 1em;
         color: #fff;
-        background: #CD8987 url("images/overlay.png");
+        background: #F2D0A4 url("images/overlay.png");
     }
 
     table thead {
@@ -311,7 +311,7 @@ table {
     }
 
     table tfoot {
-        background: #CDCACC;
+        background: #F2D0A4;
     }
 
 /* Button */
@@ -364,7 +364,7 @@ button,
 }
 
     .item header {
-        background: #CDCACC;
+        background: #F2D0A4;
         margin: 0;
         padding: 1em 0 1em 0;
         font-size: 0.8em;
@@ -411,7 +411,7 @@ button,
     -webkit-justify-content: space-between;
     -ms-justify-content: space-between;
     justify-content: space-between;
-    background: #222629 url("images/overlay.png");
+    background: #C8D6AF url("images/overlay.png");
     box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
     color: #CDCACC;
     height: 100%;
@@ -542,7 +542,7 @@ button,
 #footer {
     margin-left: 375px;
     text-align: center;
-    background-color: #dce3e2;
+    background-color: #870058;
     padding: 3em 0 4em 0;
     box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
     font-size: 0.8em;
@@ -612,20 +612,20 @@ button,
         }
 
         #main > section.one {
-            background-color: #81918E;
+            background-color: #870058;
             background-image: url("../../images/banner.jpg");
         }
 
         #main > section.two {
-            background-color: #f5fafa;
+            background-color: #F2D0A4;
         }
 
         #main > section.three {
-            background-color: #ecf1f1;
+            background-color: #A4303F;
         }
 
         #main > section.four {
-            background-color: #e8edec;
+            background-color: #FFECCC;
         }
 
 

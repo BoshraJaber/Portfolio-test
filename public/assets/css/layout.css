@@ -16,11 +16,12 @@ input, select, textarea {
 	appearance: none;
 }
 input, textarea, select {
-    font-family: 'Source Sans Pro', sans-serif;
+    /* font-family: 'Source Sans Pro', sans-serif; */
+    font-family: 'Newsreader', serif;
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
-    color: #925E78;
+    color: black;
 }
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
